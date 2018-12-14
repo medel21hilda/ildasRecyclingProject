@@ -1,0 +1,54 @@
+
+body{background-color:#C7F9EA;
+	font-family: 'Roboto', sans-serif;
+	padding:80px;}
+
+h1{font-family:                                                                                                                                                                                                                                                                                                                                                   
+'cursivve';
+font-size: 56px
+
+} 
+                                                                       
+
+p{
+	font-size:22px;
+	color:
+}
+
+
+a{
+	font-size:8px;
+	color: #555;
+}
+span{
+	font-size: 8px;
+}
+
+ul li{ 
+	font-size: 22px; 
+
+}
+
+h2{
+	font-family: Comic Sans MS;
+	font-size: 28;
+	color: #143D77
+
+}
+h3{
+	font-size:25;
+}
+
+.container{
+	width: 80%;
+	margin:auto;
+}
+
+ul a{
+	font-size:36px;
+	color: blue;
+ 	font-family: chalkboard SE;
+ 	text-decoration: none;
+}
+
+
