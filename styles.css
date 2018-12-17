@@ -5,9 +5,10 @@ body{background-color:#C7F9EA;
 
 h1{font-family:                                                                                                                                                                                                                                                                                                                                                   
 'cursivve';
-font-size: 56px
-
+font-size: 56px;
+color:
 } 
+
                                                                        
 
 p{
@@ -46,7 +47,7 @@ h3{
 
 ul a{
 	font-size:36px;
-	color: blue;
+	color:#143D77 ;
  	font-family: chalkboard SE;
  	text-decoration: none;
 }
